@@ -4,4 +4,5 @@
 @import "{{ site.theme }}";
 
 body {background: #c0bfbf;}
-a:any-link {color: #000;}
+a:any-link {color: #000; text-decoration: none;}
+a:hover {color:#000; text-decoration: underline;}
