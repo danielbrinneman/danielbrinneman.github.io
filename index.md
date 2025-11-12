@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Fine Art America (print store)](https://danielbrinneman.pixels.com)
+[Photography Prints Store](https://danielbrinneman.pixels.com)
 
 [Instagram](https://instagram.com/danielbrinneman)
 
