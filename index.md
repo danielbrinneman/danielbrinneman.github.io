@@ -8,6 +8,4 @@ layout: default
 
 [Flickr](https://www.flickr.com/photos/195065543@N06/)
 
-[Substack (future archives)](https://substack.com/@danielbrinneman)
-
 [GitHub](https://github.com/danielbrinneman)
