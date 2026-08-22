@@ -6,4 +6,3 @@ layout: default
 
 [Instagram](https://instagram.com/danielbrinneman)
 
-[GitHub](https://github.com/danielbrinneman)
