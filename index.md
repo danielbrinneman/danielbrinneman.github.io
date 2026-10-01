@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Photography Prints Store](https://danielbrinneman.pixels.com)
+[Photography Prints Store](https://danielbrinneman.pixels.com){:target="_blank"}
 
-[Instagram](https://instagram.com/danielbrinneman)
+[Instagram](https://instagram.com/danielbrinneman){:target="_blank"}
 
